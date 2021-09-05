@@ -1,4 +1,5 @@
-<h1 align="center" style: font-size=bold> Hey👋, I am Shailendra Chourey! </h1>
+<marquee> 
+  <h1 align="center" style: font-size=bold> Hey👋, I am Shailendra Chourey! </h1> </marquee>
 <h1 align="center"> FULL STACK DEVELOPER </h1>
 
 <h2> About me </h2>
