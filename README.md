@@ -5,8 +5,10 @@
 
 <h1 align="center"> About me </h1>
 I'm Shailendra, a self motivated enthusiast and full stack web developer.
+Currently I am doing my training and internship with Edureka! as a full stack web developer 
             
 
+![image](https://user-images.githubusercontent.com/86608864/132137918-6a91ea69-8d15-4652-bd12-db547a52cf61.png)
 
 
 
