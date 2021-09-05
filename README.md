@@ -1,7 +1,7 @@
 <h1 align="center" style: font-size=bold> Hey👋, I am Shailendra Chourey! </h1>
 <h1 align="center"> FULL STACK DEVELOPER </h1>
 
-About me
+<h2> About me </h2>
 I'm Shailendra, a self motivated enthusiast and full stack web developer.
 Currently I am doing my training and internship with Edureka! as a full stack web developer 
 
