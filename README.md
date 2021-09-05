@@ -6,9 +6,9 @@
 <h1 align="center"> About me </h1>
 I'm Shailendra, a self motivated enthusiast and full stack web developer.
 Currently I am doing my training and internship with Edureka! as a full stack web developer 
-            
+           
+<h1 align="center"> ![computer](https://user-images.githubusercontent.com/86608864/132138090-d0224426-e2cc-438e-b4fe-55cc7d600c6d.png) </h1>
 
- ![image](https://user-images.githubusercontent.com/86608864/132138042-b846f830-3c85-4d50-abad-e4cf5059dd6a.png) 
 
 
 
