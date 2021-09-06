@@ -1,5 +1,5 @@
 <marquee> 
-  <h1 align="center" style: font-size=bold> Hey👋, I am Shailendra Chourey! </h1> </marquee>
+  <h1 align="center" style: font-size=bold> Hey Developers👋, I am Shailendra Chourey! </h1> </marquee>
 <h1 align="center"> FULL STACK DEVELOPER </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-shailendrchourey?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailendra-chourey-a62055201/)
