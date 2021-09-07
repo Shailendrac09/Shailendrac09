@@ -3,6 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-shailendrchourey?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailendra-chourey-a62055201/)
  [![Mail Badge](https://img.shields.io/badge/-shailendrachourey420?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shailendrachourey420@gmail.com)
+[![stack overflow Badge](https://img.shields.io/badge/-shailendrchourey?style=flat&labelColor=0e76a8&logo=stackoverflow&logoColor=white)](https://www.stackoverflow.com/in/shailendrachourey/)
 
 
 
