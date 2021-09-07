@@ -1,12 +1,12 @@
   <h1 align="center" style: font-size=bold> Hey Developers👋, I am Shailendra Chourey! </h1> 
-<h2 align="center"> FULL STACK DEVELOPER <h2>
+<h2 align="center"> FULL STACK WEB DEVELOPER <h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-shailendrchourey?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailendra-chourey-a62055201/)
  [![Mail Badge](https://img.shields.io/badge/-shailendrachourey420?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shailendrachourey420@gmail.com)
 
 
 
-<h2> About me </h2>
+<h3> About me </h3>
 I'm Shailendra, a self motivated enthusiast and full stack web developer.
 Currently I am doing my training and internship with Edureka! as a full stack web developer  
 <hr/>
