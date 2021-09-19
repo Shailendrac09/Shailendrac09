@@ -8,7 +8,7 @@
 
 
 <h3> About me </h3>
-I'm Shailendra, a self motivated enthusiast and full stack web developer.
+I'm Shailendra, I am a web developer. I spend my whole day , practically everyday, experimenting with HTML, CSS, and Javascript. I'm a self motivated enthusiast and full stack web developer.
 Currently I am doing my training and internship with Edureka! as a full stack web developer  
 <hr/>
 
